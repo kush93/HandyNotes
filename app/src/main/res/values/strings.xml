@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Handy Notes</string>
+    <string name="maintitle">All Notes</string>
+    <string name="take">Take photo</string>
+    <string name="imorpt">Import photo</string>
+    <string name="newnote">New note</string>
+    <string name="handwritten">Handwriting</string>
+</resources>
